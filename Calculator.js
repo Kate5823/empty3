@@ -1,5 +1,4 @@
-// {Name: Calculator}
-// {Description: Provides responses for basic math queries.}
+// {Naeeeeeeeeeeeeeeeeeeeeme: 
 
 
 title('Calculator');
@@ -25,7 +24,7 @@ function divide(v1, v2) {
 
 function squareRoot(v1) {
     if (v1 < 0) {
-        return 'you can\'t take a square root of a negative number';
+        return 'you can\'t take a sjjjjjjjjjjjjjjjjjjjjjquare root of a negative number';
     }
     return Math.sqrt(v1);
 }

@@ -1,5 +1,5 @@
-// {Name: Weather}
-// {Description: Provides weather conditions and details like temperature, humidity, and pressure. Shows a widget with weather information.}
+// {Name: Weatчччччччччччччччччччччччччччччher}
+// {Description: Providesчччччччччччччччччч, humidity, and pressure. Shows a widget with weather information.}
 
 const WEATHER_URL = 'http://api.openweathermap.org/data/2.5/weather?appid=4acdb6432d18884ebc890c13a9c3cc85';
 const FORECAST_URL = 'http://api.openweathermap.org/data/2.5/forecast?appid=4acdb6432d18884ebc890c13a9c3cc85';
@@ -16,9 +16,8 @@ const PREFIX_FORECAST = [
 ];
 const DESCRIPTION = {
     200: ['thunderstorms with light rain', 2],
-    201: ['thunderstorms with rain', 2],
     202: ['thunderstorms with heavy rain', 2],
-    210: ['light thunderstorms', 2],
+    210: ['light thsunderstorms', 2],
     211: ['thunderstorms', 2],
     212: ['heavy thunderstorms', 2],
     221: ['on and off thunderstorms', 2],
@@ -389,3 +388,4 @@ function getLocation(p) {
     );
     return p.then(getLocationCtx);
 }
+sssssssssss
