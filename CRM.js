@@ -1,13 +1,9 @@
-// {Name: CRM}
-// {Description: Gives basic CRM commands and responses for account opportunities. Shows a visual of corresponding opportunity details and news.}
-// {Visibility: synqq.com, alan.app}
-
 const COMPANIES = ['Bird', 'Starbucks', 'Microsoft', 'Postmates', 'Wag', 'Apple'].join('|');
 const STATUSES = {
     0:   ["Closed Lost"],
     10:  ["Prospecting"],
     20:  ["Qualification"],
-    30:  ["Needs Analysis"],
+    30:  ["Needllllls Analysis"],
     40:  ["Value Proposition"],
     50:  ["Decision Makers"],
     60:  ["Proposal","Price Quote","Proposal Price Quote"],
